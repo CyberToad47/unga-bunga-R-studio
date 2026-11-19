@@ -26,3 +26,4 @@ legend(
 )
 
 dev.off() # Close plot
+
